@@ -1,6 +1,6 @@
 # Flower Classification with Deep Learning Neural Networks in Python
 
-Dataset link [here]([https://drive.google.com/file/d/1rsg-X2eBQg1AevV6IW47OQFM_yLlirVx/view?usp=sharing](https://drive.google.com/file/d/1DU0jjE4qtGa2o8lbU3qctFN9ZYR9tvrb/view?usp=sharing))
+Dataset link [here](https://drive.google.com/file/d/1DU0jjE4qtGa2o8lbU3qctFN9ZYR9tvrb/view?usp=sharing)
 
 This repository contains the implementation of a deep learning neural network model for flower classification using Python. The project demonstrates the use of TensorFlow and Keras for building and training a Convolutional Neural Network (CNN) to accurately classify flower images.
 
